@@ -1,2 +1,2 @@
 # cup-game
-This is a cup shuffling game code in javaScript
+This is a cup shuffling game coded in javaScript.
